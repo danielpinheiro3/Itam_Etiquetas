@@ -1,0 +1,6 @@
+{
+  "name": "AlmoxPrint Pro - Sistema de Etiquetas para Almoxarifado",
+  "description": "Sistema profissional para importação de planilhas Excel, editor visual de layout, geração de código de barras e impressão em folha A4 para almoxarifado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
